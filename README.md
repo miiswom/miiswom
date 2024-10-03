@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Farmata Kane</h1>
 <h3 align="center">A passionate JavaScript Developer from the UK</h3>
-
-<img text-align="center"  alt="cosy-coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/fbabc357-b945-4e72-8881-b94e68522174/Cozy+Home+Office?format=1000w">
+<div width="400" style="text-align: center;">
+<img alt="cosy-coding" width="100%" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/fbabc357-b945-4e72-8881-b94e68522174/Cozy+Home+Office?format=1000w">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miiswom&label=Profile%20views&color=0e75b6&style=flat" alt="miiswom" /> </p>
 
