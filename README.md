@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farmata Kane</h1>
-<h3 align="center">A passionate JavaScript Developer from the UK</h3>
+<h3 align="center">A passionate Full Stack Developer from the UK</h3>
 <div width="400" style="text-align: center;">
 <img alt="cosy-coding" width="100%" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/fbabc357-b945-4e72-8881-b94e68522174/Cozy+Home+Office?format=1000w">
 </div>
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kane.farmata@gmail.com**
 
-- ⚡ Fun fact **I speak English, French, Spanish, a bit of Arabic and Albanian on a daily basis.**
+- ⚡ Fun fact **I speak English, French, Spanish, and a bit of Arabic and Albanian on a daily basis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
